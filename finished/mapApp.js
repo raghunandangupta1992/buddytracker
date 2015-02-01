@@ -145,7 +145,7 @@
 
     		getDB();
 
-        // return getUserLocation();
+        // getUserLocation();
 
         var x = {lat : 12.973846499999999, long : 77.6310944}
 
